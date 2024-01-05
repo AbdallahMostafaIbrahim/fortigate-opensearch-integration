@@ -21,7 +21,7 @@ PUT _ingest/pipeline/pipline-name
 }
 ```
 
-Or use the `pipeline.js` script to them. Just change the `USER` and `PASSWORD` to your settings.
+Or use the `pipeline.js` script to them. Just change the `USER` and `PASSWORD` and `HOST` to your settings.
 
 ```
 npm install # to install the packages
