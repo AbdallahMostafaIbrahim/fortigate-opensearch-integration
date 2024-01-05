@@ -16,8 +16,7 @@ PUT _ingest/pipeline/pipline-name
 
 {
   "description": "This pipeline processes student data",
-  // The pipeline processors
-  "processors": []
+  "processors": [{}]
 }
 ```
 
